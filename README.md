@@ -1,5 +1,7 @@
 # template-electron-svelte
 
+## BROKEN
+
 Starter project with basic Svelte and Electron setup
 
 ## How to build
